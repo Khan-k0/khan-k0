@@ -40,10 +40,11 @@
 
 
 
-### ♾️ Connect with Me
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+
+ ♾️ Connect with Me
+[<img align="left" alt="MC Blog" width="48px" src="새로운_블로그_이미지_URL" />][website]
+[<img align="left" alt="MC YouTube" width="48px" src="새로운_유튜브_이미지_URL" />][youtube]
+[<img align="left" alt="MC Instagram" width="48px" src="새로운_인스타그램_이미지_URL" />][instagram]
 
 [website]: http://febseo.dothome.co.kr
 [youtube]: https://www.youtube.com/watch?v=64J_L24nSQQ
@@ -51,14 +52,14 @@
 
 
 
-### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+ 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=febseo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" />
 
 
 
-### 💻 Coding Journey
+ 💻 Coding Journey
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=febseo)](https://solved.ac/febseo)
 
 
