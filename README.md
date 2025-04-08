@@ -1,32 +1,16 @@
-## Hi there 👋
-
-<!--
-**Khan-k0/khan-k0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1>Hi 👋, I'm MC</h1>
-<br>
 
-### 🙋 I'm Seoyeon, Fullstack developer. 
-🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 MC입니다. <br>
-🔅 호기심과 학습의지를 토대로 다양한 기술을 습득하며 지속적인 성장을 추구합니다.  <br>
-🔅 새로운 기술이나 도구에 대한 탐구 정신을 가지고 있어, 향상된 개발 기술을 습득하고 적용하는 데 주력하고 있습니다. <br>
-🔅 이를 통해 학습한 다양한 지식을 노션에 체계적으로 정리함으로써, 이후 프로젝트에 적용 가능하도록 하고 있습니다. <br>
-🔅 소심하나 적극적이고, 내성적이지만 활발합니다 
+---
 
-<br>
+### 🙋 About Me
+안녕하세요! 끊임없이 성장하며 열정을 품고 달리는 개발자 지망생입니다.  
+저는 다양한 기술을 탐구하고 창의적으로 응용하려는 열정을 가지고 있으며, 기술을 통해 사람들의 삶을 더 풍요롭게 만드는 것을 목표로 하고 있습니다.  
+아직 많이 부족하지만, 배우고 성장하려는 강한 의지를 바탕으로 프로젝트와 도전에 적극적으로 임하고 있습니다.  
+
+현재 **XX대학교 심리학과**에 재학 중이며, 심리학적 통찰력을 기술 개발과 문제 해결에 접목하고자 노력하고 있습니다.  
+기술의 가능성을 탐구하며 개발과 심리학의 융합을 통해 더 나은 사용자 경험을 제공하기 위해 노력합니다.
+
+---
 
 ### 🛠 Languages and Tools
 <p>
@@ -49,22 +33,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=#fff"/> 
 </p>
 
-<br>
+---
 
 ### ⛺ Experiences
 <p>NCS [스마트웹&콘텐츠개발] 풀스택 자바웹개발자</p>
 
-<br>
+---
 
-### 🎓 Education
-<p>서울대학교 철학과 심화전공  |  2020.03 ~ </p>
-
-
-    
-<br>
-
-### ♾️ Connect with me
-
+### ♾️ Connect with Me
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
 [<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
@@ -73,14 +49,16 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/watch?v=64J_L24nSQQ
 [instagram]: https://www.youtube.com/watch?v=64J_L24nSQQ  
 
-<br><br><br><br><br><br>
+---
+
+### 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" />
 
-<br>
+---
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=febseo)](https://solved.ac/febseo)
+### 💻 Coding Journey
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=febseo)](https://solved.ac/febseo)
 
 
